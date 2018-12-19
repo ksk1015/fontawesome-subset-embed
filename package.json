@@ -1,0 +1,17 @@
+{
+  "name": "fontawesome-subset-embed",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@fortawesome/fontawesome-free": "^5.6.1",
+    "clean-css": "^4.2.1",
+    "fontmin": "^0.9.7-beta",
+    "gulp-rename": "^1.4.0"
+  },
+  "dependencies": {}
+}
